@@ -5,6 +5,6 @@
 
  Ass2 is RNN ffrom scratch to predict stock attributes.
 
- Ass3 is Classification using encoder models using BIOBERT, DISTILLBERT , ROBERTA.
+ Ass3 is Classification using encoder models using BIOBERT, DISTILLBERT , Longformer.
 
  Ass4 is Hate Meme Detection project.
